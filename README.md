@@ -1,6 +1,6 @@
 # Tracing evolution of languages using sequence alignment techniques
 
-Zoe Huang and Gonzalo Oyanedel, 2022
+Zoe Huang and Gonzalo Oyanedel, 2022. This was our final research project for Introduction to Scientific Computing @ UChicago.
 
 We analyzed the similarity of 28 languages using 3 different approaches:
 
